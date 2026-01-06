@@ -1,5 +1,5 @@
 # Tesi-triennale
-Codice sviluppato per la tesi triennale in ingegneria informatica presso l'Università di Padova
+Codice sviluppato per la tesi triennale in ingegneria informatica presso l'Università di Padova (https://thesis.unipd.it/handle/20.500.12608/53310)
 
 Attenzione! Per motivi di spazio di archiviazione, solamente il file contenente il codice è stato caricato nella repository. I dataset utilizzati nel codice sono reperibili online:
 CAUCAFall: https://data.mendeley.com/datasets/7w7fccy7ky/4
